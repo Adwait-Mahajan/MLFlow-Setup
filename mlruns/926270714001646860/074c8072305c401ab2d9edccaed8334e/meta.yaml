@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/adwaitmahajan/Desktop/MLOps/MLFlow-Setup/mlruns/926270714001646860/074c8072305c401ab2d9edccaed8334e/artifacts
+end_time: 1751827101485
+entry_point_name: ''
+experiment_id: '926270714001646860'
+lifecycle_stage: active
+run_id: 074c8072305c401ab2d9edccaed8334e
+run_name: victorious-mouse-500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751827101477
+status: 3
+tags: []
+user_id: adwaitmahajan

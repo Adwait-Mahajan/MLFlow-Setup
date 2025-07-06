@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/adwaitmahajan/Desktop/MLOps/MLFlow-Setup/mlruns/926270714001646860/3992e53e21274ca7b3155b7ab977c886/artifacts
+end_time: 1751827101456
+entry_point_name: ''
+experiment_id: '926270714001646860'
+lifecycle_stage: active
+run_id: 3992e53e21274ca7b3155b7ab977c886
+run_name: suave-cod-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751827101447
+status: 3
+tags: []
+user_id: adwaitmahajan

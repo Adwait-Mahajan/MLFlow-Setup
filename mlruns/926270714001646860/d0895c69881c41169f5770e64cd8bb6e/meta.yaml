@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/adwaitmahajan/Desktop/MLOps/MLFlow-Setup/mlruns/926270714001646860/d0895c69881c41169f5770e64cd8bb6e/artifacts
+end_time: 1751827101466
+entry_point_name: ''
+experiment_id: '926270714001646860'
+lifecycle_stage: active
+run_id: d0895c69881c41169f5770e64cd8bb6e
+run_name: lyrical-gnu-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751827101457
+status: 3
+tags: []
+user_id: adwaitmahajan

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/adwaitmahajan/Desktop/MLOps/MLFlow-Setup/mlruns/926270714001646860/cc98f76306084d46ab22117114d88228/artifacts
+end_time: 1751827101446
+entry_point_name: ''
+experiment_id: '926270714001646860'
+lifecycle_stage: active
+run_id: cc98f76306084d46ab22117114d88228
+run_name: rumbling-finch-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751827101436
+status: 3
+tags: []
+user_id: adwaitmahajan
