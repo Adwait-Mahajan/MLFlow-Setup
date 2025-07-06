@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/876806890415294186/ca26b3c52bae41abb785270dd1430d11/artifacts
+end_time: 1751787649730
+entry_point_name: ''
+experiment_id: '876806890415294186'
+lifecycle_stage: active
+run_id: ca26b3c52bae41abb785270dd1430d11
+run_name: able-carp-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751787647266
+status: 3
+tags: []
+user_id: adwaitmahajan

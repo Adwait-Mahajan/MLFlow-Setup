@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0dacf8bd1a854907b5ede1405d7dfc2a/artifacts
+end_time: 1751785391318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dacf8bd1a854907b5ede1405d7dfc2a
+run_name: grandiose-bug-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751785391301
+status: 3
+tags: []
+user_id: adwaitmahajan

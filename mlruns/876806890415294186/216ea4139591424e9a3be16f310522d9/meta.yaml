@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/876806890415294186/216ea4139591424e9a3be16f310522d9/artifacts
+end_time: 1751787597007
+entry_point_name: ''
+experiment_id: '876806890415294186'
+lifecycle_stage: active
+run_id: 216ea4139591424e9a3be16f310522d9
+run_name: sedate-pug-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751787596756
+status: 4
+tags: []
+user_id: adwaitmahajan

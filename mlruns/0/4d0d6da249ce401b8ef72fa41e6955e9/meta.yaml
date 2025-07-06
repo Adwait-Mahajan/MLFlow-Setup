@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4d0d6da249ce401b8ef72fa41e6955e9/artifacts
+end_time: 1751785835101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d0d6da249ce401b8ef72fa41e6955e9
+run_name: flawless-swan-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751785834486
+status: 4
+tags: []
+user_id: adwaitmahajan

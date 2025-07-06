@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/876806890415294186/00316aa247ad45dda744ababc26b24c4/artifacts
+end_time: 1751787572822
+entry_point_name: ''
+experiment_id: '876806890415294186'
+lifecycle_stage: active
+run_id: 00316aa247ad45dda744ababc26b24c4
+run_name: mysterious-mule-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751787572448
+status: 4
+tags: []
+user_id: adwaitmahajan

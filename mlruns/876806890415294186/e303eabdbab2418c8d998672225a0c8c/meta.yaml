@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/876806890415294186/e303eabdbab2418c8d998672225a0c8c/artifacts
+end_time: 1751786439240
+entry_point_name: ''
+experiment_id: '876806890415294186'
+lifecycle_stage: active
+run_id: e303eabdbab2418c8d998672225a0c8c
+run_name: silent-pug-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751786438886
+status: 3
+tags: []
+user_id: adwaitmahajan

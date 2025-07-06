@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b8360899c1c7436181b55a08dcc2d6b3/artifacts
+end_time: 1751785851823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8360899c1c7436181b55a08dcc2d6b3
+run_name: big-yak-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751785851487
+status: 4
+tags: []
+user_id: adwaitmahajan
